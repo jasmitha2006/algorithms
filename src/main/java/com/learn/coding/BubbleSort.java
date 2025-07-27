@@ -1,3 +1,5 @@
+package com.learn.coding;
+
 public class BubbleSort {
 
     // Method to perform Bubble Sort
